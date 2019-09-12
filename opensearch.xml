@@ -1,0 +1,6 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>find.bible</ShortName>
+    <Description>Search the Bibles of the world</Description>
+    <Url type="text/html" method="get" template="https://find.bible/search?query={searchTerms}&amp;page={pageNumber}"/>
+    <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>
